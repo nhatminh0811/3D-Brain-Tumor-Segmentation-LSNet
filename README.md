@@ -718,9 +718,8 @@ A: Yes, modify `train.py` to load checkpoint state_dict for both model and optim
 ## 📧 Contact & Support
 
 **Author**: Minh Nhat  
-**Institution**: [Your University]  
-**Email**: [Your Email]  
-**Thesis Advisor**: [Advisor Name]
+**Institution**: [UWE Bristol Phenikaa Campus]  
+**Email**: [gwimloveu@gmail.com]  
 
 ---
 
